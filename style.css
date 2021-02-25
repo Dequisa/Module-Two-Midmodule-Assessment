@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+}
+
+h3 {
+    display: inline;
+}
+
+#dice-para {
+    border: 3px solid black;
+}
+#sum-para {
+    border: 3px solid black;
+    margin-top: 3%;
+}
+
+p {
+    display: inline;
+}
