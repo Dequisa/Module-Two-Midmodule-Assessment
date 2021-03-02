@@ -3,7 +3,8 @@ h1 {
 }
 
 h3 {
-    display: inline;
+  
+    text-align: center;
 }
 
 #dice-para {
@@ -13,7 +14,26 @@ h3 {
     border: 3px solid black;
     margin-top: 3%;
 }
+/* #total-sum{
+    text-align: left;
+} */
 
-p {
-    display: inline;
+form {
+    text-align: center;
 }
+
+
+body p{
+    text-align: center;
+    margin-top: 1px;
+}
+
+body {
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAvoqHc62PQKyIuNC9C32-WMw7o1LBO1SDA&usqp=CAU");
+background-size: 100%;
+}
+
+div li {
+    font-size: large;
+}
+
